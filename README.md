@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santos Zuberbuhler</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **santoszuberbuhler2003@protonmail.com**
 
